@@ -6,6 +6,10 @@ This is the starter webapp for Comp4711 Tutorial/Lab 3.
 
 It is purposefully broken.
 
+...but now it's fixed.
+
+Dima Goncharov A00885037
+
 **************
 Intended Usage
 **************
